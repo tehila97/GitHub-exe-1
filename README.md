@@ -6,6 +6,3 @@ README
 * my hobbies is to read, play puzzles, chess and to watch movies.
 * in the past, i learned sql, python, and i finished a course in data analyst in the last july. 😄 ```
      * today i'm studing in aplleceeds front end developer course.
-*********
-
-link
